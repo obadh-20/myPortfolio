@@ -121,8 +121,8 @@ export default function Home() {
     <div >
       <SplashCursor />
       <Navbar name="navbar fixed top-5 md:top-9 flex justify-between  items-center md:w-[1000px] px-4  py-3 rounded-3xl bg-[#0f1010]  z-10" />
-      <div className="flex flex-col mt-20 px-10 justify-center  h-[50vh] md:h-[90vh] text-3xl text-[#dedede] gap-5 md:*:text-5xl  md:*:w-5xl  md:*:ms-60 *:tracking-[-0.6px] ">
-        <div className="relative  h-[170px] md:h-[200px] md:mt-60">
+      <div className="flex flex-col sm:mt-20 px-10 justify-center h-[50vh] md:h-[90vh] text-3xl text-[#dedede] gap-5 md:*:text-5xl  md:*:w-5xl  md:*:ms-60 *:tracking-[-0.6px] ">
+        <div className="relative  h-[170px] md:h-[200px] md:mt-40 md:mb-20">
           <h2 className="tryingany top-0">
             i&apos;m Obadh<span className="secondany">✌️</span>
           </h2>
